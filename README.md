@@ -2,4 +2,4 @@
 
 | Название проекта | Описание | Используемые инструменты |
 | --- | --- | --- |
-| [1. Дашборд для агентства недвижимости]([ссылка](https://datalens.yandex/o1tawaef8q4i9)) | Тест. | *PostgreSQL,DataLens* |
+| [1. Дашборд для агентства недвижимости]([Анализ рынка недвижимости в Санкт-Петербурге и Ленобласти.](https://github.com/Konstantin-K-I/practicum_projects/blob/814c409da9dbea8addef603f4c58f7863be1600c/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B2%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B5%20%D0%B8%20%D0%9B%D0%B5%D0%BD%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8.)) | Тест. | *PostgreSQL,DataLens* |
